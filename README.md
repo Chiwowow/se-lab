@@ -1,4 +1,6 @@
 # SE Spaceship
+[![Java CI with Maven](https://github.com/Chiwowow/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Chiwowow/se-lab/actions/workflows/maven.yml)
+
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
